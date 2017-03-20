@@ -1,1 +1,2 @@
 Hello #teamGLaDOS!
+This is a test of git status
